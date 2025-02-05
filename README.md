@@ -1,4 +1,5 @@
 # Madhav-Ecommerce-sales-dashboard
+The Madhav Ecommerce Sales Dashboard is a comprehensive Business Intelligence solution designed to analyze and visualize sales performance data for an ecommerce business. Built using Microsoft Power BI, this interactive dashboard provides real-time insights into sales trends, customer behavior, and product performance across different regions of India.
 ## Questions
 1. What is the overall financial performance of the ecommerce business?
 2. How are sales distributed across different states?
@@ -32,5 +33,8 @@
         Madhav
         Madan Mohan
         Shiva
+
+## Tools
+PowerBi
 
    
